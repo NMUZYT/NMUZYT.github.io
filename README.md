@@ -30,12 +30,7 @@
 
 ---
 - **观看视频**
-<video controls width="80%">
-    <source src="movie/Low quality version-demonstration of 3D-BioLungEx and IOSI-BLDose.mp4.mp4" type="video/mp4">
-    请下载 <a href="movie/Low quality version-demonstration of 3D-BioLungEx and IOSI-BLDose.mp4.mp4">MP4 视频</a> 来观看演示。
-</video>
-
-
+ <a href="movie/Low quality version-demonstration of 3D-BioLungEx and IOSI-BLDose.mp4.mp4">MP4 视频</a> 
 
 --- 
 
