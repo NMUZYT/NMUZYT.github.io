@@ -2,7 +2,7 @@
 # 3D-BioLungEx & IOSI-BLDose 项目简介
 
 本项目旨在推动放射治疗（放疗）技术的创新，通过开发一套硬件系统与一套软件算法，提升放疗的精确性与效果。
-
+![3D-BioLungEx 设备外观](/picture/fm.jpg)
 ## 🧪 硬件系统：3D-BioLungEx
 
 我们设计了一种三维生物离体运动模拟装置（3D-BioLungEx），用于模拟人体肺部的呼吸运动。该装置包含以下模块：
@@ -29,6 +29,9 @@
 - **适用领域**：放射治疗、医学物理、生物医学工程。
 
 ---
+<video controls width="600">
+    <source src="/assets/videos/demo.mp4" type="video/mp4">
+</video>
 
 如果想要进一步了解或参与本项目，欢迎访问我们的代码仓库或联系项目团队。
 
