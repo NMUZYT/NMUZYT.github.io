@@ -29,6 +29,7 @@
 - **适用领域**：放射治疗、医学物理、生物医学工程。
 
 ---
+[观看演示视频](movie/Low quality version-demonstration of 3D-BioLungEx and IOSI-BLDose.mp4.mp4)
 <video controls width="600">
     <source src="movie/Low quality version-demonstration of 3D-BioLungEx and IOSI-BLDose.mp4.mp4" type="video/mp4">
 </video>
