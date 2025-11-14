@@ -16,6 +16,7 @@
 ## 💻 软件算法：IOSI-BLDose
 
 我们开发了一套基于迭代优化与散射反演的生物肺剂量分布逆向解析算法（IOSI-BLDose），用于计算放疗过程中生物组织内的三维剂量分布。该算法有助于提升放疗的精准度与治疗效果。
+
 ![3D-BioLungEx 设备外观](picture/fig.3.jpg)
 算法源代码也已公开。
 ![3D-BioLungEx 设备外观](picture/fig.5.jpg)
@@ -29,7 +30,7 @@
 
 ---
 <video controls width="600">
-    <source src="/assets/videos/demo.mp4" type="video/mp4">
+    <source src="movie/Low quality version-demonstration of 3D-BioLungEx and IOSI-BLDose.mp4.mp4" type="video/mp4">
 </video>
 
 如果想要进一步了解或参与本项目，欢迎访问我们的代码仓库或联系项目团队。
